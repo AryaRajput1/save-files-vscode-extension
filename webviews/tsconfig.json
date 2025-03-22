@@ -1,0 +1,6 @@
+{
+    "extends": "@vue/tsconfig/tsconfig.json",
+    "include": ["./**/*", ],
+    "exclude": ["../node_modules/*"],
+    "compilerOptions": {"strict": true }
+  }
